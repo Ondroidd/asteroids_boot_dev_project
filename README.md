@@ -1,1 +1,1 @@
-# asteroids_boot_dev_project
+# asteroids game - boot.dev project
